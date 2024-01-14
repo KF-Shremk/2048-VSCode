@@ -12,7 +12,7 @@ Last updated January 22, 2023.
 
 ## Acknowledgements
 
-FileController, GridSpot, GUI2048, MoveController, NewGameController, QuitController code written by Shaheer Majeed. 
+FileController, GridSpot, GUI2048, MoveController, NewGameController, QuitController code written by Shaheer Majeed (will add him to contributors if/when he makes a github account). 
 
 GUI in final build uses java.swing.
 
