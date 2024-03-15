@@ -1,6 +1,6 @@
 ## How to Run
 
-Start the program by compiling and running 'startup2048.java' in VSCode.
+Start the program by opening the whole project, then compiling and running 'startup2048.java' in VSCode.
 
 Prototype build built in the HSA console can be played by compiling and running 'Prototype2048.java' in VSCode.
 
